@@ -1,12 +1,12 @@
 # Landing Page
 
 <div align="center">
-<img src="src/img/site.png" width="2000px" alt="Imagem do site" title="Imagem do site"/>
+<img src="https://github.com/igoraugustobrz/landing-page/blob/main/landing-page-web/src/img/site.png" width="2000px" alt="Imagem do site" title="Imagem do site"/>
 </div>
 
 ## Descrição
 
-Descrição em construção.
+Projeto desenvolvido como parte da conclusão da formação Explorer da RocketSeat. A formação Explorer visa ensinar Node.js, React.js, testes automatizados usando Jest, etc.
 
 ## Status do projeto
 
