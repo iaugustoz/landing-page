@@ -10,7 +10,7 @@ Projeto desenvolvido como parte da conclusão da formação Explorer da RocketSe
 
 ## Status do projeto
 
-Projeto em andamento.
+Projeto concluído.
 
 ## Pré-requisitos
 
